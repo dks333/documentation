@@ -7,7 +7,7 @@
     "light": "#07C983",
     "dark": "#0D9373"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.s,
   "navigation": {
     "tabs": [
       {
@@ -90,6 +90,13 @@
       "x": "https://x.com/mintlify",
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
+    }
+  },
+  "errors": {
+    "404": {
+      "redirect": false,
+      "title": "Page Not Found",
+      "description": "`The page` you are _looking for_ **does not exist**. You can [navigate to the homepage](https://mintlify.com) or [contact support](mailto:support@mintlify.com) for help. ![gif](https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif)"
     }
   }
 }
