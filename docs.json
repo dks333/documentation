@@ -15,6 +15,7 @@
         "groups": [
           {
             "group": "Get Started",
+            "icon": "/images/bball.jpg",
             "pages": ["introduction", "quickstart", "development"]
           },
           {
