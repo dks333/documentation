@@ -16,7 +16,7 @@
           {
             "group": "Get Started",
             "icon": "/images/bball.jpg",
-            "pages": ["introduction", "quickstart", "development", "AAA"]
+            "pages": ["introduction", "quickstart", "development"]
           },
           {
             "group": "Essentials",
