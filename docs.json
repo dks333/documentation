@@ -27,6 +27,10 @@
               "essentials/images",
               "essentials/settings",
               "essentials/navigation",
+              "test-file-1",
+              "test-file-2",
+              "test-folder-1/test-file-3",
+              "test-folder-2/test-file-4",
               "essentials/reusable-snippets"
             ]
           }
