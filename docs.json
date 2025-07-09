@@ -93,5 +93,27 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      {
+        "title": "Ask Perplexity",
+        "description": "Ask Perplexity about the current page",
+        "icon": "search",
+        "href": {
+          "base": "https://www.perplexity.ai/search",
+          "query": [
+            {
+              "key": "q",
+              "value": "Ask question about https://mintlify.com/docs$path.md"
+            }
+          ]
+        }
+      }
+    ]
   }
 }
