@@ -122,5 +122,9 @@
         }
       }
     ]
+  },
+  "banner": {
+    "content": "This is a banner. [Click here](https://mintlify.com/docs) to learn more.",
+    "dismissible": true
   }
 }
