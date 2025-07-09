@@ -74,6 +74,9 @@
       ]
     }
   },
+  "icons": {
+    "library": "lucide"
+  },
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
