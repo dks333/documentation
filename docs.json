@@ -12,14 +12,14 @@
     "tabs": [
       {
         "tab": "Documentation",
-        "groups": [
+        "dropdowns": [
           {
-            "group": "Get Started",
+            "dropdown": "Get Started",
             "icon": "/images/bball.jpg",
             "pages": ["introduction", "quickstart", "development"]
           },
           {
-            "group": "Essentials",
+            "dropdown": "Essentials",
             "icon": "/images/nav-icon.svg",
             "pages": [
               "essentials/markdown",
