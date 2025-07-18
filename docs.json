@@ -12,6 +12,7 @@
     "tabs": [
       {
         "tab": "Documentation",
+        "icon": "/images/bball.jpg",
         "dropdowns": [
           {
             "dropdown": "Get Started",
@@ -38,6 +39,7 @@
       },
       {
         "tab": "API Reference",
+        "icon": "rocket",
         "groups": [
           {
             "group": "API Documentation",
